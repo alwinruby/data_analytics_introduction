@@ -25,3 +25,11 @@
     6. Share your findings
 
     **the bridge between incomprehensible raw data and useful insights**
+
+    seek to investigate:
+
+      What are the most popular pick-up locations across the city for Citi Bike rental?
+      How does the average trip duration vary across different age groups, and over time?
+      Which age group rents the most bikes?
+      How does bike rental vary across the two user groups (one-time users vs long-term subscribers) on different days of the week?
+      Do factors like weather and user age impact the average bike trip duration?
